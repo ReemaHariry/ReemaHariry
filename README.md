@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="assets/portrait.svg" width="300" alt="Reema Ehab Aly ElHariry dot-matrix portrait">
-</p>
-
-<p align="center">
   <a href="https://github.com/ReemaHariry">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=620&lines=Reema+Ehab+Aly+ElHariry;Machine+Learning+%26+AI+Engineer;Building+Data-Driven+AI+Projects" alt="typing banner">
   </a>
