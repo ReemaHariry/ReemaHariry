@@ -1,0 +1,20 @@
+{
+  "projects": [
+    {
+      "repo": "FitMe",
+      "description": "AI fitness training platform using MediaPipe pose landmarks, LSTM exercise classification, real-time FastAPI/WebSocket inference, and an AI fitness coach."
+    },
+    {
+      "repo": "Rasa-chatbot-for-Car-sales",
+      "description": "Conversational AI car-sales assistant built with Rasa NLU, dialogue management, custom Python actions, REST APIs, and multi-turn slot filling."
+    },
+    {
+      "repo": "Lung-Cancer-Patient-Data-Management-System",
+      "description": "Data engineering project for managing and processing lung-cancer patient data using SQL, Python, Pandas, NumPy, SSIS, and Azure."
+    },
+    {
+      "repo": "RAG-chatbot",
+      "description": "Retrieval-Augmented Generation chatbot project combining information retrieval, vector-based search concepts, and language-model response generation."
+    }
+  ]
+}
