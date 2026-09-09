@@ -9,9 +9,7 @@
   <a href="mailto:reemahariry884@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ReemaHariry&style=flat&color=39d353&label=profile+views" alt="profile views">
-</p>
+
 
 ---
 
