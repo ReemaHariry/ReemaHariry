@@ -30,7 +30,7 @@ Hi, I'm **Reema Ehab Aly ElHariry**. I'm focused on **Machine Learning and AI**,
 <h2 align="center"><code>~/</code> toolbox</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,fastapi,postgres,git,github,vscode,gcp,supabase&perline=6" alt="Machine Learning and AI tech stack">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,fastapi,postgres,git,github,vscode,supabase&perline=6" alt="Machine Learning and AI tech stack">
 </p>
 
 ---
