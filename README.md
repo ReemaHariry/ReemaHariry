@@ -117,26 +117,6 @@ Hi, I'm **Reema Ehab Aly ElHariry**. I'm focused on **Machine Learning and AI**,
   </a>
 </td>
 </tr>
-<tr>
-<td width="50%">
-  <a href="https://github.com/ReemaHariry/Lung-Cancer-Patient-Data-Management-System">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="assets/card-Lung-Cancer-Patient-Data-Management-System-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="assets/card-Lung-Cancer-Patient-Data-Management-System-light.svg">
-      <img src="assets/card-Lung-Cancer-Patient-Data-Management-System-dark.svg" width="420" alt="Lung Cancer Patient Data Management System">
-    </picture>
-  </a>
-</td>
-<td width="50%">
-  <a href="https://github.com/ReemaHariry/RAG-chatbot">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="assets/card-RAG-chatbot-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="assets/card-RAG-chatbot-light.svg">
-      <img src="assets/card-RAG-chatbot-dark.svg" width="420" alt="RAG Chatbot">
-    </picture>
-  </a>
-</td>
-</tr>
 </table>
 
 <p align="center">
